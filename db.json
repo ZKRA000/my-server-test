@@ -1,7 +1,9 @@
-[
-        "laravel",
-        "vue",
-        "javascript",
-        "php",
-        "tooling"
-]
+{
+        "skills": [
+                "laravel",
+                "vue",
+                "javascript",
+                "php",
+                "tooling"
+        ]
+}
